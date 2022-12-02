@@ -17,5 +17,5 @@ char* read_file(char* path) {
 }
 
 void print_int(long x) {
-    printf("%ld\n", x);
+    printf("%dd\n", x);
 }

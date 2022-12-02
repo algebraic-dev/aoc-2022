@@ -1,5 +1,5 @@
 all:
-	clang -c Day1.c -o Day1.C.o 
-	llc Day1.ll
-	clang Day1.s Day1.C.o
+	clang -c Day2.c -o Day2.C.o 
+	llc Day2.ll
+	clang Day2.s Day2.C.o
 	./a.out

@@ -1,0 +1,7 @@
+*.out
+*.C.*
+*.input
+*.s
+*.opt.ll
+*.o
+*.bc
